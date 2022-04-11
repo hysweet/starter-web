@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 =======
 ##How to contribute
 >>>>>>> simple-changes
+
+ALl rights reserve
