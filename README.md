@@ -15,3 +15,4 @@ Sample website with plenty of files for demos
 >>>>>>> simple-changes
 
 ALl rights reserve
+quick fix
