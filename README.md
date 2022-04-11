@@ -8,4 +8,8 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
+<<<<<<< HEAD
 ##how to contribute
+=======
+##How to contribute
+>>>>>>> simple-changes
